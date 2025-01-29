@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A singleplayer / solo version of jklm.fun's bomb party."
+    />
+    <meta
+      name="keywords"
+      content="bomb party, solo bomb party, singleplayer bomb party, bomb party solo, bomb party singleplayer"
+
+      
+    />
+    <meta name="author" content="sertdfyguhi" />
+    <img src="css\474116641_1169518578024635_3144439882764577603_n.png" class="hello">
+    <title>Solo Bomb Party</title>
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+
+
+
+  <body>
+    <div>
+      
+      <h1 style="margin: 20px">Salitang Bomba!!</h1>
+
+      <div id="startContainer">
+        <button id="startButton">Start.</button>
+        <button id="settingsButton">Settings.</button>
+
+        <p id="finalScore"></p>
+        <h3 style="margin: 10px 10px 2px 10px">High Scores:</h3>
+        <ol id="highscores"></ol>
+      </div>
+
+
+      
+      <div id="bombContainer">
+        <img id="bomb" src="css\Untitled design (9).png" alt="Bomb">
+      </div>
+      
+      <div id="gameContainer" style="display: none">
+        <h3 id="wordPrompt"></h3>
+        <input
+          type="text"
+          id="inputWord"
+          placeholder="Ilagay ang salita..."
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <button id="enterButton">Enter</button>
+        <button id="skipButton">Skip.</button>
+        <p id="score" style="margin-bottom: 2px">Score: 0</p>
+        <p id="gameTime" style="margin: 0">0s</p>
+      </div>
+    </div>
+
+    <div id="settingsBackground"></div>
+    <div id="settingsContainer" tabindex="0">
+      <h2>Settings</h2>
+    
+      <section>
+        <h3>Dictionary</h3>
+
+        <label>
+          Words Per Prompt
+          <input
+            type="number"
+            id="wordsPerPromptInput"
+            placeholder="Words per prompt..."
+            value="5000"
+          />
+        </label>
+      </section>
+
+      <section>
+        <h3>Game</h3>
+
+        <label>
+          Game time (s)
+          <input
+            type="number"
+            id="gameTimeInput"
+            placeholder="Game time (s)..."
+            value="60"
+          />
+        </label>
+
+        <label>
+          Prompt time (s)
+          <input
+            type="number"
+            id="promptTimeInput"
+            placeholder="Prompt time (s)..."
+            value="8"
+          />
+        </label>
+
+        <label>
+          Infinite Mode
+          <input type="checkbox" id="infiniteModeInput" />
+        </label>
+      </section>
+          <button id="saveSettingsButton">Save Settings</button>
+        <button id="closeSettingsButton">Close</button>
+    </div>
+
+    <script src="js/index.js" type="module"></script>
+
+    <audio id="bombSound" loop>
+      <source src="css\clock ticking sound effect.mp3" type="audio/mpeg">
+    </audio>
+
+    <audio id="explosionSound">
+      <source src="css\Small Bomb Explosion Sound Effect.mp3" type="audio/mpeg">
+    </audio>
+    
+  </body>
+</html>
