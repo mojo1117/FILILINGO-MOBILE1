@@ -1,4 +1,4 @@
-// load highscores
+
 const highscoresEl = document.getElementById("highscores");
 let highscores = localStorage.getItem("highscores") || Array(5).fill(0);
 if (typeof highscores == "string") highscores = highscores.split(";");
@@ -10,12 +10,11 @@ function loadHighscores() {
   for (const highscore of highscores) {
     const listItem = document.createElement("li");
     listItem.innerText = highscore;
-    listItem.classList.add("highlighted-text"); // Add class for styling
+    listItem.classList.add("highlighted-text"); 
     highscoresEl.appendChild(listItem);
   }
 }
 
-// get wordlist and syllables from server
 const words = (await (await fetch("assets/wordlist.txt")).text()).split("\r\n");
 const syllables = await (await fetch("assets/syllables.json")).json();
 
@@ -39,11 +38,10 @@ const wordPrompt = document.getElementById("wordPrompt");
 const inputWord = document.getElementById("inputWord");
 const enterButton = document.getElementById("enterButton");
 const gameTimeEl = document.getElementById("gameTime");
-// Add this event listener for the close button
 const closeSettingsButton = document.getElementById("closeSettingsButton");
 
 closeSettingsButton.addEventListener("click", () => {
-  settingsContainer.style.display = "none"; // Hide the settings container when the close button is clicked
+  settingsContainer.style.display = "none"; 
 });
 
 
@@ -79,7 +77,7 @@ function findHighscoreIndex(score) {
 }
 
 function updateScore(plus) {
-  plus ? score++ : score--;
+  plus ? (score += 100) : (score -= 100);
   scoreEl.innerText = `Score: ${score}`;
 }
 
@@ -88,7 +86,7 @@ function nextPrompt() {
     currentSyllables[Math.round(Math.random() * (currentSyllables.length - 1))];
   console.log("current syllable:", newSyllable);
   wordPrompt.innerText = newSyllable;
-  wordPrompt.classList.add("highlighted-text"); // Add highlight class
+  wordPrompt.classList.add("highlighted-text");
   inputWord.value = "";
   if (infiniteModeInput.checked) return;
   let currentPromptTime = promptTime;
@@ -107,12 +105,12 @@ function showBombAndExplode() {
   const bombContainer = document.getElementById("bombContainer");
   const bomb = document.getElementById("bomb");
 
-  bombContainer.style.display = "block"; // Show the bomb
+  bombContainer.style.display = "block"; 
 
   setTimeout(() => {
-    bomb.style.animation = "explode 0.5s forwards"; // Trigger explosion animation
+    bomb.style.animation = "explode 0.5s forwards"; 
     setTimeout(() => {
-      bombContainer.style.display = "none"; // Hide the bomb after explosion
+      bombContainer.style.display = "none"; 
     }, 500);
   }, 500);
 }
@@ -121,7 +119,7 @@ function endGame() {
   clearInterval(promptTimeInterval);
   inGame = false;
 
-  showBombAndExplode(); // Show bomb animation when game ends
+  showBombAndExplode(); 
 
   if (score > highscores[highscores.length - 1]) {
     highscores.splice(findHighscoreIndex(score), 0, score);
@@ -138,25 +136,23 @@ function endGame() {
   let bombSound = document.getElementById("bombSound");
   let explosionSound = document.getElementById("explosionSound");
 
-  // Stop ticking sound
   bombSound.pause();
   bombSound.currentTime = 0;
 
-  // Play explosion sound
+
   explosionSound.play();
 }
 
 
 
 function startGame() {
-  // Load latest settings before starting
   wordsPerPrompt = parseInt(wordsPerPromptInput.value) || 5000;
   promptTime = parseInt(promptTimeInput.value) || 8;
   gameTime = parseInt(gameTimeInput.value) || 60;
 
   let bombSound = document.getElementById("bombSound");
-  bombSound.currentTime = 0; // Restart ticking sound
-  bombSound.play(); // Start ticking sound
+  bombSound.currentTime = 0; 
+  bombSound.play();
 
   inGame = true;
   startContainer.style.display = "none";
@@ -182,7 +178,7 @@ function startGame() {
 }
 
 
-// Load saved settings from localStorage
+
 function loadSettings() {
   const savedWordsPerPrompt = localStorage.getItem("wordsPerPrompt");
   const savedInfiniteMode = localStorage.getItem("infiniteMode");
@@ -195,7 +191,7 @@ function loadSettings() {
   if (savedGameTime) gameTimeInput.value = savedGameTime;
 }
 
-// Call loadSettings when the page loads
+
 window.addEventListener("load", loadSettings);
 
 
@@ -225,15 +221,15 @@ saveSettingsButton.addEventListener("click", () => {
   localStorage.setItem("promptTime", promptTimeInput.value);
   localStorage.setItem("gameTime", gameTimeInput.value);
 
-  // Apply new settings to the game
+ 
   wordsPerPrompt = parseInt(wordsPerPromptInput.value) || 5000;
   promptTime = parseInt(promptTimeInput.value) || 8;
   gameTime = parseInt(gameTimeInput.value) || 60;
 });
 
-highscoreTitle.classList.add("highlighted-text"); // Add highlight class to Highscores title
+highscoreTitle.classList.add("highlighted-text"); 
 
-// Apply the highlight class to additional elements
+
 finalScoreEl.classList.add("highlighted-text");
 gameTimeEl.classList.add("highlighted-text");
 wordPrompt.classList.add("highlighted-text");
