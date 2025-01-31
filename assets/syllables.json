@@ -41,7 +41,7 @@
         "man",
         "ku",
         "bu",
-        "pa",
+        "hag",
         "lal",
         "po",
         "hal",
@@ -120,7 +120,7 @@
         "hat",
         "hin",
         "lal",
-        "wu",
+        "yon",
         "sal",
         "las",
         "pal",
@@ -140,8 +140,8 @@
         "hu",
         "ti",
         "si",
-        "wo",
-        "wo",
+        "gan",
+        "gan",
         "sa",
         "lan",
         "lu",
@@ -162,14 +162,14 @@
         "pa",
         "sal",
         "ta",
-        "wo",
+        "gan",
         "wat",
         "li",
         "pul",
         "bat",
         "mi",
         "ko",
-        "wul",
+        "ahi",
         "tat",
         "ba",
         "ku",
@@ -238,11 +238,11 @@
         "bu",
         "su",
         "sas",
-        "wo",
+        "gan",
         "lin",
         "tul",
         "ta",
-        "wu",
+        "yon",
         "min",
         "sin",
         "kas",
@@ -253,7 +253,7 @@
         "hat",
         "lo",
         "sal",
-        "wu",
+        "yon",
         "pu",
         "kan",
         "pi",
@@ -364,7 +364,7 @@
         "pan",
         "ha",
         "kin",
-        "wu",
+        "yon",
         "kas",
         "sas",
         "man",
@@ -383,7 +383,7 @@
         "han",
         "ma",
         "han",
-        "wo",
+        "gan",
         "ban",
         "bo",
         "ni",
@@ -473,7 +473,7 @@
         "wi",
         "pi",
         "wat",
-        "wul",
+        "ahi",
         "lin",
         "la",
         "hat",
@@ -542,7 +542,7 @@
         "lal",
         "mul",
         "tul",
-        "wo",
+        "gan",
         "sa",
         "so",
         "su",
@@ -614,7 +614,7 @@
         "to",
         "lin",
         "lin",
-        "wul",
+        "ahi",
         "bat",
         "pin",
         "pin",
@@ -629,7 +629,7 @@
         "pan",
         "di",
         "go",
-        "wu",
+        "yon",
         "ho",
         "si",
         "tal",
@@ -681,13 +681,13 @@
         "wa",
         "lul",
         "tas",
-        "wu",
+        "yon",
         "la",
         "tu",
         "gas",
         "tin",
         "tan",
-        "wul",
+        "ahi",
         "ti",
         "mat",
         "gat",
@@ -838,7 +838,7 @@
         "sal",
         "kan",
         "mul",
-        "wul",
+        "ahi",
         "mi",
         "lan",
         "sin",
@@ -858,7 +858,7 @@
         "sin",
         "wan",
         "lal",
-        "wul",
+        "ahi",
         "kal",
         "pat",
         "pa",
@@ -867,7 +867,7 @@
         "ti",
         "hin",
         "was",
-        "wul",
+        "ahi",
         "tin",
         "hul",
         "mal",
@@ -878,7 +878,7 @@
         "las",
         "pin",
         "su",
-        "wu",
+        "yon",
         "sas",
         "bi",
         "ku",
@@ -889,10 +889,10 @@
         "hin",
         "mul",
         "ga",
-        "wo",
+        "gan",
         "bin",
         "sa",
-        "wu",
+        "yon",
         "tu",
         "ko",
         "wa",
@@ -911,7 +911,7 @@
     ],
     "47": [
         "wi",
-        "wu",
+        "yon",
         "bu",
         "ho",
         "sas",
@@ -931,7 +931,7 @@
         "bo",
         "was",
         "bu",
-        "wu",
+        "yon",
         "han",
         "mi",
         "tat",
@@ -945,14 +945,14 @@
         "bin",
         "lo",
         "kul",
-        "wo",
+        "gan",
         "go",
         "gu",
         "kal",
         "mi",
         "lo",
-        "wu",
-        "wo",
+        "yon",
+        "gan",
         "sul",
         "wa",
         "si",
@@ -965,7 +965,7 @@
         "mu"
     ],
     "55": [
-        "wu",
+        "yon",
         "pa",
         "las",
         "gal",
@@ -992,7 +992,7 @@
         "pin",
         "las",
         "gas",
-        "wul"
+        "ahi"
     ],
     "2": [
         "sul",
@@ -1033,7 +1033,7 @@
         "wat",
         "pan",
         "sin",
-        "wul",
+        "ahi",
         "ni",
         "bo",
         "gas",
@@ -1080,7 +1080,7 @@
         "pan",
         "tas",
         "min",
-        "wul",
+        "ahi",
         "gu",
         "tat",
         "si",
@@ -1104,14 +1104,14 @@
         "pat",
         "kul",
         "bat",
-        "wo",
+        "gan",
         "la",
         "lul",
         "mas",
         "lat",
         "ta",
         "tan",
-        "wu",
+        "yon",
         "lu",
         "wa",
         "gat",
@@ -1160,7 +1160,7 @@
         "mi",
         "pi",
         "kas",
-        "wo",
+        "gan",
         "si",
         "bal",
         "was",
@@ -1211,7 +1211,7 @@
         "hat",
         "min",
         "tul",
-        "wo",
+        "gan",
         "wal",
         "ti",
         "kal",
@@ -1227,7 +1227,7 @@
         "sat",
         "kal",
         "tal",
-        "wul",
+        "ahi",
         "pi",
         "li",
         "gas",
@@ -1279,7 +1279,7 @@
         "tan",
         "kan",
         "pas",
-        "wo",
+        "gan",
         "ba",
         "gat",
         "man",
@@ -1336,11 +1336,11 @@
         "gan",
         "han",
         "ma",
-        "wu",
+        "yon",
         "kul",
         "min",
         "pu",
-        "wul",
+        "ahi",
         "lal",
         "hul",
         "ba",
@@ -1363,7 +1363,7 @@
         "ni",
         "lin",
         "kul",
-        "wul",
+        "ahi",
         "ri",
         "hu",
         "gu",
@@ -1373,7 +1373,7 @@
         "su",
         "lal",
         "gu",
-        "wo",
+        "gan",
         "ma",
         "su",
         "wal",
@@ -1391,7 +1391,7 @@
         "sin",
         "kan",
         "was",
-        "wu",
+        "yon",
         "kal",
         "gan",
         "kul",
@@ -1417,7 +1417,7 @@
         "san",
         "sal",
         "bul",
-        "wo",
+        "gan",
         "kan",
         "tin",
         "go",
@@ -1530,7 +1530,7 @@
         "ba",
         "lul",
         "bin",
-        "wo",
+        "gan",
         "ka",
         "bat",
         "san",
@@ -1628,7 +1628,7 @@
         "si",
         "li",
         "mu",
-        "wu",
+        "yon",
         "hal",
         "gin",
         "ku",
@@ -1658,7 +1658,7 @@
         "pat",
         "lan",
         "ri",
-        "wo",
+        "gan",
         "di",
         "tat",
         "ti",
@@ -1695,7 +1695,7 @@
         "gas",
         "bas",
         "mu",
-        "wo",
+        "gan",
         "tas",
         "lu",
         "lul",
@@ -1727,7 +1727,7 @@
         "gan",
         "pas",
         "di",
-        "wo",
+        "gan",
         "gan",
         "ba",
         "go",
@@ -1769,7 +1769,7 @@
         "ri",
         "pul",
         "bat",
-        "wo",
+        "gan",
         "pi",
         "so",
         "mu",
@@ -1814,7 +1814,7 @@
         "gal",
         "mul",
         "hu",
-        "wu",
+        "yon",
         "gat",
         "tu",
         "tin",
@@ -1833,7 +1833,7 @@
         "ko",
         "sat",
         "kul",
-        "wul",
+        "ahi",
         "lo",
         "po",
         "hu",
@@ -1894,7 +1894,7 @@
         "bi",
         "lin",
         "san",
-        "wu",
+        "yon",
         "tan",
         "bul",
         "kin",
@@ -1904,7 +1904,7 @@
         "to",
         "man",
         "pan",
-        "wo",
+        "gan",
         "gu",
         "pat",
         "pu",
@@ -1923,7 +1923,7 @@
         "pa",
         "kat",
         "mal",
-        "wo",
+        "gan",
         "wal",
         "bi",
         "kas",
@@ -1973,7 +1973,7 @@
         "ni",
         "go",
         "bul",
-        "wo",
+        "gan",
         "ma",
         "wal",
         "tat",
@@ -2021,10 +2021,10 @@
         "sin",
         "bat",
         "kin",
-        "wu",
+        "yon",
         "tin",
         "tat",
-        "wu",
+        "yon",
         "han"
     ],
     "48": [
@@ -2103,7 +2103,7 @@
         "ku",
         "go",
         "ri",
-        "wul",
+        "ahi",
         "ban",
         "san",
         "ri",
@@ -2255,7 +2255,7 @@
         "tan",
         "was",
         "bin",
-        "wul",
+        "ahi",
         "wi",
         "gin",
         "han",
@@ -2269,7 +2269,7 @@
         "ha",
         "ha",
         "pat",
-        "wul",
+        "ahi",
         "pu"
     ],
     "19564": [
@@ -2371,7 +2371,7 @@
         "bu",
         "min",
         "wan",
-        "wo",
+        "gan",
         "mi",
         "hu",
         "wa",
@@ -2448,7 +2448,7 @@
         "ba",
         "ka",
         "bu",
-        "wul",
+        "ahi",
         "ta",
         "pal",
         "bi",
@@ -2491,7 +2491,7 @@
         "has",
         "kan",
         "ho",
-        "wul",
+        "ahi",
         "pat",
         "mul",
         "pat",
@@ -2503,11 +2503,11 @@
         "sas",
         "hin",
         "bas",
-        "wu",
+        "yon",
         "mat",
         "kul",
         "lat",
-        "wul",
+        "ahi",
         "hat",
         "was",
         "san",
@@ -2518,7 +2518,7 @@
     ],
     "84": [
         "lat",
-        "wo",
+        "gan",
         "ba",
         "hin",
         "tin",
@@ -2527,7 +2527,7 @@
         "hal",
         "lal",
         "was",
-        "wu",
+        "yon",
         "man",
         "ku",
         "ti",
@@ -2561,7 +2561,7 @@
         "tal",
         "su",
         "ti",
-        "wu",
+        "yon",
         "man",
         "lal",
         "lo",
@@ -2578,7 +2578,7 @@
         "wat",
         "gul",
         "la",
-        "wo",
+        "gan",
         "ma",
         "las",
         "san",
@@ -2593,7 +2593,7 @@
         "bi",
         "sat",
         "mu",
-        "wo",
+        "gan",
         "hu",
         "tu",
         "mul",
@@ -2635,7 +2635,7 @@
         "ho",
         "lan",
         "kal",
-        "wu",
+        "yon",
         "bo",
         "sin",
         "ba",
@@ -2703,7 +2703,7 @@
         "la",
         "min",
         "wal",
-        "wo",
+        "gan",
         "pu",
         "hu",
         "hal",
@@ -2727,7 +2727,7 @@
         "gin",
         "man",
         "was",
-        "wul",
+        "ahi",
         "sal",
         "lal",
         "kal",
@@ -2736,11 +2736,11 @@
         "lat",
         "sal",
         "wan",
-        "wul",
+        "ahi",
         "hin",
         "ga",
         "ka",
-        "wul",
+        "ahi",
         "bal",
         "hin",
         "kas",
@@ -2793,11 +2793,11 @@
         "wa",
         "mi",
         "lal",
-        "wo",
+        "gan",
         "ma",
         "ka",
         "kan",
-        "wul",
+        "ahi",
         "bin",
         "kas",
         "kin",
@@ -2882,7 +2882,7 @@
         "ri",
         "di",
         "wal",
-        "wu",
+        "yon",
         "ho",
         "kal",
         "mal",
@@ -2912,7 +2912,7 @@
         "pan",
         "po",
         "sas",
-        "wu",
+        "yon",
         "gat",
         "so",
         "pi",
@@ -2925,7 +2925,7 @@
         "mi",
         "man",
         "mul",
-        "wul",
+        "ahi",
         "las",
         "ban",
         "po",
@@ -2940,7 +2940,7 @@
         "lan",
         "mas",
         "han",
-        "wo",
+        "gan",
         "kin",
         "sas",
         "gal",
@@ -2960,7 +2960,7 @@
         "sin",
         "wan",
         "mat",
-        "wo",
+        "gan",
         "hul",
         "wat",
         "po",
@@ -3019,7 +3019,7 @@
         "ni",
         "ka",
         "ti",
-        "wo",
+        "gan",
         "ku",
         "las",
         "ba",
@@ -3050,7 +3050,7 @@
         "si",
         "mo",
         "tu",
-        "wu",
+        "yon",
         "gat",
         "kat",
         "bo",
@@ -3124,7 +3124,7 @@
         "man",
         "su",
         "win",
-        "wul",
+        "ahi",
         "sas",
         "was",
         "kal"
@@ -3162,7 +3162,7 @@
         "tan"
     ],
     "33310": [
-        "wu"
+        "yon"
     ],
     "434": [
         "pas",
@@ -3216,7 +3216,7 @@
         "mul",
         "sa",
         "kas",
-        "wo",
+        "gan",
         "hal",
         "bo",
         "bu",
@@ -3285,7 +3285,7 @@
         "su",
         "ta",
         "hal",
-        "wul",
+        "ahi",
         "gas",
         "kan",
         "pul",
@@ -3313,7 +3313,7 @@
         "mi",
         "to",
         "kul",
-        "wo",
+        "gan",
         "ban",
         "go",
         "ma",
@@ -3337,7 +3337,7 @@
         "ha",
         "tas",
         "han",
-        "wu",
+        "yon",
         "kal",
         "wan",
         "mul",
@@ -3368,7 +3368,7 @@
         "gas",
         "to",
         "hat",
-        "wu",
+        "yon",
         "ko",
         "tan",
         "kin",
@@ -3401,7 +3401,7 @@
         "lat",
         "gin",
         "kas",
-        "wo",
+        "gan",
         "sul",
         "ban",
         "pan",
@@ -3438,10 +3438,10 @@
         "sat",
         "to",
         "mal",
-        "wo",
+        "gan",
         "la",
         "lu",
-        "wo",
+        "gan",
         "bo",
         "mat",
         "ba",
@@ -3489,7 +3489,7 @@
         "pin",
         "lat",
         "mul",
-        "wul",
+        "ahi",
         "gin",
         "ban",
         "si",
@@ -3526,11 +3526,11 @@
         "gat",
         "si",
         "la",
-        "wu",
+        "yon",
         "lo",
         "mat",
         "bi",
-        "wu",
+        "yon",
         "gat",
         "pa",
         "su",
@@ -3542,7 +3542,7 @@
         "hul",
         "tan",
         "ha",
-        "wo",
+        "gan",
         "kin",
         "sat",
         "pi",
@@ -3581,7 +3581,7 @@
         "lat",
         "ti",
         "ko",
-        "wul",
+        "ahi",
         "tul",
         "kal",
         "gal",
@@ -3600,7 +3600,7 @@
         "gul",
         "si",
         "bas",
-        "wul",
+        "ahi",
         "mi",
         "sas",
         "kan",
@@ -3641,7 +3641,7 @@
         "mi",
         "bul",
         "pan",
-        "wu",
+        "yon",
         "gu",
         "gal",
         "bo",
@@ -3774,7 +3774,7 @@
         "sas",
         "bu",
         "ti",
-        "wo",
+        "gan",
         "bal",
         "lal",
         "hu",
@@ -3788,7 +3788,7 @@
         "mul",
         "pan",
         "tas",
-        "wul",
+        "ahi",
         "bi",
         "go",
         "ma",
@@ -3811,7 +3811,7 @@
         "pul",
         "win",
         "tat",
-        "wu",
+        "yon",
         "lul",
         "pal",
         "kul",
@@ -3834,7 +3834,7 @@
         "han"
     ],
     "246": [
-        "wo",
+        "gan",
         "ko",
         "hul"
     ],
@@ -3849,16 +3849,16 @@
         "sal",
         "so",
         "wat",
-        "wu",
+        "yon",
         "pi",
         "tul",
         "bin",
-        "wo",
+        "gan",
         "kal",
         "has",
         "wat",
         "so",
-        "wul",
+        "ahi",
         "kin",
         "to",
         "ni",
@@ -3877,9 +3877,9 @@
         "wa",
         "sa",
         "sa",
-        "wul",
+        "ahi",
         "gal",
-        "wo",
+        "gan",
         "li",
         "ga",
         "di",
@@ -3903,7 +3903,7 @@
     "212": [
         "kas",
         "li",
-        "wo",
+        "gan",
         "min",
         "po",
         "pi",
@@ -3941,7 +3941,7 @@
         "las",
         "min",
         "mat",
-        "wu",
+        "yon",
         "po",
         "wal",
         "gal",
@@ -4011,7 +4011,7 @@
         "bi",
         "mo",
         "bul",
-        "wu",
+        "yon",
         "ho",
         "wat",
         "hin",
@@ -4097,7 +4097,7 @@
         "was",
         "ri",
         "pa",
-        "wu",
+        "yon",
         "tin",
         "bu",
         "bul",
@@ -4111,14 +4111,14 @@
         "was",
         "bo",
         "po",
-        "wul",
+        "ahi",
         "sat",
         "bu",
         "gat",
         "mu",
         "kal",
         "ka",
-        "wu",
+        "yon",
         "ta",
         "li",
         "lo",
@@ -4165,7 +4165,7 @@
         "lul",
         "pu",
         "lo",
-        "wo",
+        "gan",
         "sin",
         "pan",
         "tu",
@@ -4176,7 +4176,7 @@
         "wa",
         "was",
         "di",
-        "wo",
+        "gan",
         "gul",
         "tat",
         "hat",
@@ -4196,7 +4196,7 @@
         "lat",
         "po",
         "wal",
-        "wul",
+        "ahi",
         "pul",
         "wan",
         "ho",
@@ -4227,7 +4227,7 @@
         "bin",
         "mal",
         "la",
-        "wu",
+        "yon",
         "gat",
         "sas",
         "ha",
@@ -4280,7 +4280,7 @@
         "mu",
         "pin",
         "man",
-        "wu",
+        "yon",
         "wi",
         "pin",
         "san",
@@ -4309,7 +4309,7 @@
         "bas"
     ],
     "43": [
-        "wul",
+        "ahi",
         "ri",
         "ti",
         "sul",
@@ -4343,7 +4343,7 @@
         "ta",
         "sal",
         "wal",
-        "wo",
+        "gan",
         "ta",
         "min",
         "gal",
@@ -4382,7 +4382,7 @@
         "las",
         "sa",
         "mo",
-        "wu",
+        "yon",
         "wat",
         "gat",
         "gan",
@@ -4401,7 +4401,7 @@
         "pas",
         "ban",
         "ba",
-        "wo",
+        "gan",
         "pin",
         "gal",
         "to",
@@ -4449,7 +4449,7 @@
         "lul",
         "tul",
         "sas",
-        "wo",
+        "gan",
         "mul"
     ],
     "282": [
@@ -4547,14 +4547,14 @@
         "pas",
         "ma",
         "pu",
-        "wul",
+        "ahi",
         "bas",
         "kin",
         "to",
         "po",
         "lal",
         "kul",
-        "wo",
+        "gan",
         "pin",
         "sin",
         "kul",
@@ -4573,7 +4573,7 @@
         "pul",
         "ba",
         "pul",
-        "wo",
+        "gan",
         "was",
         "sat",
         "tal",
@@ -4593,7 +4593,7 @@
         "kat",
         "pal",
         "wa",
-        "wo",
+        "gan",
         "wan",
         "pal",
         "ku",
@@ -4652,7 +4652,7 @@
         "po",
         "pul",
         "ku",
-        "wul",
+        "ahi",
         "pul",
         "gas",
         "kas",
@@ -4695,7 +4695,7 @@
         "lo",
         "kul",
         "mul",
-        "wo",
+        "gan",
         "sal",
         "so",
         "sas",
@@ -4751,11 +4751,11 @@
         "han",
         "bat",
         "man",
-        "wo",
+        "gan",
         "wal",
         "tas",
         "ka",
-        "wo",
+        "gan",
         "tul",
         "ka",
         "tan",
@@ -4793,11 +4793,11 @@
         "hu",
         "hat",
         "sal",
-        "wul",
+        "ahi",
         "lu",
         "ka",
         "tul",
-        "wo",
+        "gan",
         "kas",
         "bi",
         "bi",
@@ -4816,12 +4816,12 @@
         "pin",
         "wat",
         "to",
-        "wul",
+        "ahi",
         "wa",
         "sin",
         "win",
         "tat",
-        "wul",
+        "ahi",
         "sal",
         "lo",
         "ba",
@@ -4909,7 +4909,7 @@
         "mu",
         "hul",
         "kin",
-        "wul",
+        "ahi",
         "gul",
         "bu",
         "to",
@@ -4926,7 +4926,7 @@
         "ga",
         "mi",
         "bi",
-        "wu",
+        "yon",
         "man",
         "pal",
         "pan",
@@ -5011,14 +5011,14 @@
         "bul",
         "bi",
         "si",
-        "wu",
+        "yon",
         "mo",
         "tat",
         "la",
         "wat",
         "mu",
         "pas",
-        "wo",
+        "gan",
         "bal",
         "bi",
         "pal",
@@ -5063,7 +5063,7 @@
         "wi",
         "so",
         "sin",
-        "wo",
+        "gan",
         "sal",
         "wal",
         "sa",
@@ -5077,7 +5077,7 @@
         "sas",
         "mul",
         "lu",
-        "wu",
+        "yon",
         "la",
         "lal",
         "kal",
@@ -5102,7 +5102,7 @@
         "gin",
         "gat",
         "ma",
-        "wu",
+        "yon",
         "ha",
         "gat",
         "sas",
@@ -5126,7 +5126,7 @@
     "481": [
         "hin",
         "su",
-        "wu"
+        "yon"
     ],
     "256": [
         "kat",
@@ -5151,11 +5151,11 @@
         "kin",
         "han",
         "win",
-        "wo",
+        "gan",
         "ni",
         "bi",
         "wan",
-        "wu",
+        "yon",
         "mo",
         "mo",
         "bas",
@@ -5225,7 +5225,7 @@
         "gin",
         "gan",
         "ka",
-        "wul",
+        "ahi",
         "bas",
         "pan",
         "bin",
@@ -5257,7 +5257,7 @@
         "lin",
         "ko",
         "tu",
-        "wul",
+        "ahi",
         "ga",
         "tal",
         "mal",
@@ -5268,7 +5268,7 @@
         "pi",
         "min",
         "ni",
-        "wo",
+        "gan",
         "ga",
         "bat",
         "bu",
@@ -5321,7 +5321,7 @@
         "gat",
         "san",
         "sin",
-        "wu",
+        "yon",
         "wal",
         "tal",
         "tan",
@@ -5339,7 +5339,7 @@
         "ko",
         "pas",
         "sal",
-        "wo",
+        "gan",
         "kal",
         "tat",
         "hat",
@@ -5373,10 +5373,10 @@
         "li",
         "to",
         "bat",
-        "wo",
+        "gan",
         "tat",
         "wi",
-        "wu",
+        "yon",
         "lu",
         "mo",
         "bas",
@@ -5451,7 +5451,7 @@
         "mi",
         "wi",
         "go",
-        "wul",
+        "ahi",
         "bal",
         "ni",
         "gin",
@@ -5485,7 +5485,7 @@
         "pul",
         "pin",
         "di",
-        "wo",
+        "gan",
         "has"
     ],
     "39112": [
@@ -5572,7 +5572,7 @@
         "pan",
         "kal",
         "gu",
-        "wo",
+        "gan",
         "ma",
         "ri",
         "di",
@@ -5638,7 +5638,7 @@
         "tu",
         "san",
         "sas",
-        "wu",
+        "yon",
         "bul",
         "lin",
         "sin",
@@ -5659,7 +5659,7 @@
         "sul",
         "san",
         "gin",
-        "wo",
+        "gan",
         "min",
         "han",
         "gas",
@@ -5690,7 +5690,7 @@
         "so",
         "sul",
         "sal",
-        "wul",
+        "ahi",
         "win",
         "bo",
         "gul",
@@ -5701,7 +5701,7 @@
         "sal",
         "kat",
         "gan",
-        "wu",
+        "yon",
         "mal",
         "so",
         "lin",
@@ -5725,7 +5725,7 @@
         "gul",
         "wan",
         "wan",
-        "wo",
+        "gan",
         "man",
         "gul",
         "bas",
@@ -5756,7 +5756,7 @@
         "bin",
         "tan",
         "bul",
-        "wo",
+        "gan",
         "ri",
         "ha",
         "pat",
@@ -5836,7 +5836,7 @@
         "tat",
         "pas",
         "tas",
-        "wo",
+        "gan",
         "ka",
         "sal",
         "man",
@@ -5876,11 +5876,11 @@
         "wat",
         "pal",
         "ba",
-        "wu",
+        "yon",
         "las",
         "bin",
         "lin",
-        "wul",
+        "ahi",
         "kan",
         "to",
         "gas",
@@ -5919,7 +5919,7 @@
         "lal",
         "lul",
         "pan",
-        "wo",
+        "gan",
         "lan",
         "pat",
         "bas",
@@ -5963,7 +5963,7 @@
     "204": [
         "ku",
         "si",
-        "wul",
+        "ahi",
         "pi",
         "sal",
         "tu",
@@ -5979,7 +5979,7 @@
         "tas",
         "wal",
         "tin",
-        "wul"
+        "ahi"
     ],
     "45": [
         "hul",
@@ -6022,7 +6022,7 @@
     ],
     "44": [
         "pa",
-        "wu",
+        "yon",
         "tas",
         "tat",
         "bul",
@@ -6031,13 +6031,13 @@
         "mal",
         "pul",
         "bo",
-        "wo",
+        "gan",
         "bul",
         "bal",
         "bal",
         "lat",
         "pu",
-        "wo",
+        "gan",
         "ban",
         "mal",
         "sal",
@@ -6107,8 +6107,8 @@
         "ri",
         "mul",
         "ni",
-        "wu",
-        "wo",
+        "yon",
+        "gan",
         "sal",
         "kas",
         "ban",
@@ -6140,7 +6140,7 @@
         "sat",
         "pul",
         "lu",
-        "wo",
+        "gan",
         "man",
         "bat",
         "pa",
@@ -6170,7 +6170,7 @@
         "so",
         "win",
         "gin",
-        "wo",
+        "gan",
         "mas",
         "wi",
         "kan",
@@ -6201,7 +6201,7 @@
         "lul",
         "li",
         "pul",
-        "wul",
+        "ahi",
         "bal",
         "bi",
         "ni",
@@ -6231,7 +6231,7 @@
         "si",
         "tan",
         "ti",
-        "wu",
+        "yon",
         "lo",
         "las",
         "bat",
@@ -6361,7 +6361,7 @@
         "wa",
         "lat",
         "po",
-        "wo",
+        "gan",
         "tas",
         "ku",
         "lat",
@@ -6376,7 +6376,7 @@
         "han",
         "pul",
         "bi",
-        "wo",
+        "gan",
         "tas",
         "di",
         "lu",
@@ -6461,7 +6461,7 @@
         "win",
         "sin",
         "sin",
-        "wo",
+        "gan",
         "hal",
         "to",
         "tas",
@@ -6547,7 +6547,7 @@
         "ka",
         "bin",
         "kul",
-        "wul",
+        "ahi",
         "ga",
         "pul",
         "po",
@@ -6562,7 +6562,7 @@
         "bal",
         "wan",
         "ka",
-        "wul",
+        "ahi",
         "sul",
         "ri",
         "bat",
@@ -6597,7 +6597,7 @@
         "man",
         "kas",
         "bal",
-        "wo",
+        "gan",
         "kal",
         "ba",
         "wat",
@@ -6643,7 +6643,7 @@
         "ko",
         "han",
         "sat",
-        "wu",
+        "yon",
         "bat",
         "pal",
         "bal",
@@ -6654,13 +6654,13 @@
         "bul",
         "ko",
         "min",
-        "wul",
+        "ahi",
         "wat",
-        "wu",
+        "yon",
         "hu"
     ],
     "780": [
-        "wo",
+        "gan",
         "min"
     ],
     "95": [
@@ -6671,7 +6671,7 @@
         "tin",
         "su",
         "pa",
-        "wu",
+        "yon",
         "sul",
         "kin",
         "bi",
@@ -6750,7 +6750,7 @@
         "bi",
         "lan",
         "ha",
-        "wu",
+        "yon",
         "sa",
         "wan",
         "bas",
@@ -6781,7 +6781,7 @@
         "go",
         "gul",
         "mi",
-        "wo",
+        "gan",
         "bi",
         "ta",
         "gas",
@@ -6797,7 +6797,7 @@
         "sal",
         "sat",
         "mu",
-        "wo",
+        "gan",
         "kul",
         "pal",
         "ri",
@@ -6818,7 +6818,7 @@
         "pas",
         "han",
         "sal",
-        "wu",
+        "yon",
         "bu",
         "ku",
         "bal",
@@ -6888,7 +6888,7 @@
         "tan",
         "sat",
         "mo",
-        "wo",
+        "gan",
         "hu",
         "gu",
         "sul",
@@ -6914,7 +6914,7 @@
         "gal",
         "ha",
         "sal",
-        "wu",
+        "yon",
         "ban",
         "lo",
         "wal",
@@ -6924,7 +6924,7 @@
         "man",
         "mul",
         "kal",
-        "wu",
+        "yon",
         "la",
         "ho",
         "wi",
@@ -6957,7 +6957,7 @@
         "go",
         "lat",
         "ti",
-        "wul",
+        "ahi",
         "li",
         "sa",
         "ba",
@@ -6984,7 +6984,7 @@
         "gul",
         "ku",
         "gal",
-        "wu",
+        "yon",
         "lan",
         "lal",
         "gat",
@@ -7006,7 +7006,7 @@
         "lin",
         "kul",
         "mo",
-        "wul",
+        "ahi",
         "man",
         "win",
         "bat",
@@ -7057,7 +7057,7 @@
     ],
     "1787": [
         "bul",
-        "wul"
+        "ahi"
     ],
     "231": [
         "tu",
@@ -7120,7 +7120,7 @@
         "tin",
         "to",
         "lul",
-        "wo",
+        "gan",
         "kan",
         "gat",
         "kul",
@@ -7134,7 +7134,7 @@
         "pu",
         "sat",
         "gat",
-        "wo",
+        "gan",
         "tu",
         "lin",
         "gin",
@@ -7147,7 +7147,7 @@
         "gan",
         "si",
         "gu",
-        "wu",
+        "yon",
         "sa",
         "lin",
         "ha",
@@ -7212,9 +7212,9 @@
         "bin",
         "las",
         "sa",
-        "wul",
+        "ahi",
         "lu",
-        "wo",
+        "gan",
         "mi",
         "san",
         "pan",
@@ -7237,7 +7237,7 @@
         "su",
         "las",
         "hal",
-        "wul",
+        "ahi",
         "pin",
         "ka",
         "pan",
@@ -7284,8 +7284,8 @@
         "po",
         "sas",
         "di",
-        "wu",
-        "wul",
+        "yon",
+        "ahi",
         "bul",
         "mo",
         "mul",
@@ -7348,12 +7348,12 @@
         "lat",
         "wan",
         "kul",
-        "wul",
+        "ahi",
         "mat",
         "kin",
         "gas",
         "po",
-        "wu",
+        "yon",
         "lan",
         "si",
         "mal",
@@ -7453,7 +7453,7 @@
         "min",
         "mas",
         "win",
-        "wul",
+        "ahi",
         "gu",
         "mo",
         "bas",
@@ -7464,13 +7464,13 @@
         "ni",
         "ku",
         "kal",
-        "wu",
+        "yon",
         "pi",
         "so",
         "wat",
         "ri",
         "lo",
-        "wu",
+        "yon",
         "pal",
         "las",
         "tul",
@@ -7481,7 +7481,7 @@
         "lo",
         "po",
         "hin",
-        "wo",
+        "gan",
         "tan",
         "hin",
         "sa",
@@ -7534,7 +7534,7 @@
         "bu",
         "wat",
         "mo",
-        "wu",
+        "yon",
         "kal",
         "sul",
         "tas",
@@ -7593,7 +7593,7 @@
         "wal",
         "tu",
         "pal",
-        "wo",
+        "gan",
         "gan",
         "kul",
         "pin",
@@ -7606,13 +7606,13 @@
         "lin",
         "ri",
         "lo",
-        "wo",
+        "gan",
         "gal",
         "kas",
         "pa",
         "pu",
         "hal",
-        "wu",
+        "yon",
         "lul",
         "mi",
         "tan",
@@ -7624,7 +7624,7 @@
         "hat",
         "mul",
         "pu",
-        "wul",
+        "ahi",
         "pin",
         "mas",
         "su",
@@ -7635,7 +7635,7 @@
         "go",
         "hul",
         "pan",
-        "wu",
+        "yon",
         "lu",
         "tan",
         "hal",
@@ -7672,7 +7672,7 @@
         "mi",
         "la",
         "wat",
-        "wu",
+        "yon",
         "bi",
         "pan",
         "wal",
@@ -7712,7 +7712,7 @@
         "pan",
         "pul",
         "pi",
-        "wu",
+        "yon",
         "mi",
         "go",
         "gat",
@@ -7725,7 +7725,7 @@
         "mal",
         "sas",
         "hat",
-        "wu",
+        "yon",
         "di",
         "tul",
         "gal",
@@ -7861,11 +7861,11 @@
         "mu",
         "ga",
         "pin",
-        "wo",
+        "gan",
         "lan",
         "mul",
         "tul",
-        "wo",
+        "gan",
         "pas",
         "pat",
         "ni",
@@ -8021,7 +8021,7 @@
     "440": [
         "tas",
         "bi",
-        "wo",
+        "gan",
         "ti"
     ],
     "4227": [
@@ -8044,7 +8044,7 @@
         "mu",
         "lan",
         "sal",
-        "wu",
+        "yon",
         "ma",
         "lat",
         "ko",
@@ -8143,7 +8143,7 @@
         "mo",
         "han",
         "bu",
-        "wul",
+        "ahi",
         "wan",
         "to",
         "ri",
@@ -8158,7 +8158,7 @@
         "hul",
         "wa",
         "li",
-        "wo",
+        "gan",
         "so"
     ],
     "513": [
@@ -8190,7 +8190,7 @@
         "hat",
         "hu",
         "to",
-        "wul",
+        "ahi",
         "sul",
         "ka",
         "kat",
@@ -8274,7 +8274,7 @@
         "bal",
         "pas",
         "tan",
-        "wu",
+        "yon",
         "lul",
         "tal",
         "mi",
@@ -8330,7 +8330,7 @@
         "wi",
         "lat",
         "wi",
-        "wu",
+        "yon",
         "po",
         "ri",
         "win",
@@ -8367,7 +8367,7 @@
         "ba",
         "wi",
         "pal",
-        "wul",
+        "ahi",
         "mal",
         "gat"
     ],
@@ -8396,7 +8396,7 @@
     ],
     "74": [
         "gas",
-        "wo",
+        "gan",
         "was",
         "ri",
         "kas",
@@ -8556,7 +8556,7 @@
         "pas",
         "ga",
         "lul",
-        "wo",
+        "gan",
         "sal",
         "to",
         "ban",
@@ -8651,7 +8651,7 @@
     ],
     "78": [
         "hul",
-        "wo",
+        "gan",
         "sul",
         "gu",
         "bi",
@@ -8706,11 +8706,11 @@
         "tu",
         "tul",
         "lin",
-        "wu",
+        "yon",
         "ma",
         "lat",
-        "wul",
-        "wo",
+        "ahi",
+        "gan",
         "sal",
         "sat",
         "bas",
@@ -8724,7 +8724,7 @@
         "ri",
         "ri",
         "sin",
-        "wo",
+        "gan",
         "kan",
         "mu",
         "hul",
@@ -8739,7 +8739,7 @@
         "ku",
         "ga",
         "pi",
-        "wo",
+        "gan",
         "pu",
         "win",
         "bal",
@@ -8757,8 +8757,8 @@
         "li",
         "sal",
         "tas",
-        "wo",
-        "wo",
+        "gan",
+        "gan",
         "ri",
         "ga",
         "kan",
@@ -8775,7 +8775,7 @@
         "ba",
         "mal",
         "gu",
-        "wu",
+        "yon",
         "ga",
         "bu",
         "ku",
@@ -8857,7 +8857,7 @@
         "go",
         "mas",
         "bu",
-        "wo",
+        "gan",
         "pa",
         "lal",
         "wa",
@@ -8877,7 +8877,7 @@
         "bas",
         "san",
         "si",
-        "wu",
+        "yon",
         "si",
         "lan",
         "las",
@@ -8918,7 +8918,7 @@
         "ba",
         "bas",
         "wal",
-        "wul",
+        "ahi",
         "bul",
         "ta",
         "mal",
@@ -8965,7 +8965,7 @@
         "ti",
         "ti",
         "si",
-        "wu",
+        "yon",
         "man",
         "pat",
         "tul",
@@ -8996,7 +8996,7 @@
         "pal",
         "lu",
         "lo",
-        "wo",
+        "gan",
         "sas",
         "wan",
         "bo",
@@ -9060,7 +9060,7 @@
     "110": [
         "pul",
         "lin",
-        "wul",
+        "ahi",
         "ha",
         "ma",
         "mu",
@@ -9127,7 +9127,7 @@
         "kal",
         "pas",
         "pa",
-        "wul",
+        "ahi",
         "li",
         "bal",
         "las",
@@ -9214,14 +9214,14 @@
         "tan",
         "gan",
         "ri",
-        "wu",
+        "yon",
         "sas",
         "si",
         "lin",
-        "wu",
+        "yon",
         "pas",
         "bo",
-        "wu",
+        "yon",
         "pas",
         "pin",
         "go",
@@ -9240,7 +9240,7 @@
         "han"
     ],
     "734": [
-        "wul",
+        "ahi",
         "lal",
         "ka"
     ],
@@ -9299,7 +9299,7 @@
         "kal",
         "las",
         "pin",
-        "wo",
+        "gan",
         "kas",
         "di",
         "bu",
@@ -9415,8 +9415,8 @@
         "lin",
         "hal",
         "man",
-        "wo",
-        "wo",
+        "gan",
+        "gan",
         "ku",
         "sal",
         "pul",
@@ -9461,7 +9461,7 @@
         "sul"
     ],
     "1736": [
-        "wo",
+        "gan",
         "win"
     ],
     "781": [
@@ -9472,7 +9472,7 @@
         "lan",
         "hin",
         "to",
-        "wo",
+        "gan",
         "sa",
         "bal",
         "pan"
@@ -9480,7 +9480,7 @@
     "53": [
         "go",
         "gul",
-        "wo",
+        "gan",
         "was",
         "kul",
         "ga",
@@ -9523,7 +9523,7 @@
         "go",
         "tal",
         "ri",
-        "wu",
+        "yon",
         "win",
         "hul",
         "pa",
@@ -9547,7 +9547,7 @@
         "gas",
         "gul",
         "hat",
-        "wul",
+        "ahi",
         "bas"
     ],
     "104": [
@@ -9568,7 +9568,7 @@
         "lu",
         "bat",
         "gat",
-        "wo",
+        "gan",
         "sin",
         "tal",
         "sas",
@@ -9602,7 +9602,7 @@
         "lal",
         "ba",
         "pas",
-        "wo",
+        "gan",
         "wi",
         "gas",
         "di",
@@ -9616,7 +9616,7 @@
         "lo",
         "tal",
         "sal",
-        "wul",
+        "ahi",
         "mat",
         "lo",
         "sal",
@@ -9665,7 +9665,7 @@
         "bat",
         "ni",
         "wa",
-        "wul",
+        "ahi",
         "lul",
         "las",
         "kin",
@@ -9835,7 +9835,7 @@
         "ba",
         "has",
         "mul",
-        "wu",
+        "yon",
         "has",
         "so",
         "kas",
@@ -9848,7 +9848,7 @@
         "min",
         "si",
         "lu",
-        "wul",
+        "ahi",
         "su",
         "lin",
         "pat",
@@ -9901,7 +9901,7 @@
         "min",
         "lul",
         "sin",
-        "wu",
+        "yon",
         "san",
         "pas",
         "si",
@@ -9950,7 +9950,7 @@
     ],
     "248": [
         "ta",
-        "wu",
+        "yon",
         "hal",
         "wa",
         "lin",
@@ -9988,7 +9988,7 @@
         "wal",
         "hu",
         "kul",
-        "wu",
+        "yon",
         "sat",
         "mu",
         "so",
@@ -10028,7 +10028,7 @@
         "was",
         "tul",
         "tin",
-        "wu"
+        "yon"
     ],
     "1534": [
         "po",
@@ -10158,12 +10158,12 @@
         "kin"
     ],
     "271": [
-        "wul",
+        "ahi",
         "mal",
         "ha"
     ],
     "834": [
-        "wu",
+        "yon",
         "tin",
         "sas"
     ],
@@ -10243,10 +10243,10 @@
         "gin",
         "di",
         "bu",
-        "wul"
+        "ahi"
     ],
     "1862": [
-        "wul",
+        "ahi",
         "mo",
         "go"
     ],
@@ -10262,7 +10262,7 @@
     "309": [
         "go",
         "min",
-        "wu",
+        "yon",
         "pin",
         "si",
         "la"
@@ -10288,7 +10288,7 @@
         "tin"
     ],
     "383": [
-        "wu",
+        "yon",
         "pin",
         "ban",
         "mi"
@@ -10296,14 +10296,14 @@
     "197": [
         "gat",
         "sat",
-        "wo",
+        "gan",
         "pat",
         "gal",
         "lin",
         "wi",
         "mal",
         "tin",
-        "wu"
+        "yon"
     ],
     "13569": [
         "hul"
@@ -10345,7 +10345,7 @@
         "lan",
         "pal",
         "tan",
-        "wul"
+        "ahi"
     ],
     "826": [
         "sul",
@@ -10392,7 +10392,7 @@
         "wi",
         "tat",
         "gul",
-        "wu",
+        "yon",
         "tal",
         "lal",
         "lin",
@@ -10462,7 +10462,7 @@
         "ho",
         "gul",
         "mas",
-        "wu",
+        "yon",
         "gin",
         "ta",
         "hal",
@@ -10514,7 +10514,7 @@
         "tat",
         "so",
         "ho",
-        "wo",
+        "gan",
         "sa",
         "hu",
         "wan",
@@ -10565,7 +10565,7 @@
         "mul",
         "di",
         "gan",
-        "wul",
+        "ahi",
         "go",
         "pul",
         "lu",
@@ -10583,7 +10583,7 @@
         "wan",
         "mul",
         "ha",
-        "wu",
+        "yon",
         "min",
         "pin"
     ],
@@ -10593,7 +10593,7 @@
         "sin",
         "kul",
         "han",
-        "wul",
+        "ahi",
         "so",
         "go",
         "mat"
@@ -10609,8 +10609,8 @@
         "wa",
         "gan",
         "ri",
-        "wul",
-        "wu"
+        "ahi",
+        "yon"
     ],
     "262": [
         "wal",
@@ -10646,7 +10646,7 @@
         "to",
         "tat",
         "pin",
-        "wo",
+        "gan",
         "go",
         "tal",
         "gat"
@@ -10716,7 +10716,7 @@
         "hu",
         "bo",
         "han",
-        "wu",
+        "yon",
         "pu",
         "wa",
         "kat",
@@ -10732,7 +10732,7 @@
     ],
     "81": [
         "bi",
-        "wu",
+        "yon",
         "pas",
         "sa",
         "hul",
@@ -10795,7 +10795,7 @@
         "ka",
         "kul",
         "wan",
-        "wul",
+        "ahi",
         "pin",
         "go",
         "sal",
@@ -10809,7 +10809,7 @@
         "gal",
         "mu",
         "sas",
-        "wul",
+        "ahi",
         "sin",
         "lal",
         "po",
@@ -10924,10 +10924,10 @@
     ],
     "294": [
         "bu",
-        "wul",
+        "ahi",
         "ta",
         "mal",
-        "wo",
+        "gan",
         "gan",
         "mal"
     ],
@@ -10938,7 +10938,7 @@
         "sat"
     ],
     "244": [
-        "wo",
+        "gan",
         "hul",
         "mi",
         "tan",
@@ -10956,7 +10956,7 @@
         "pa",
         "min",
         "ni",
-        "wo",
+        "gan",
         "tal",
         "gan",
         "ho",
@@ -10984,7 +10984,7 @@
         "di",
         "gu",
         "gul",
-        "wul",
+        "ahi",
         "pin"
     ],
     "1034": [
@@ -11038,7 +11038,7 @@
         "gas",
         "was",
         "hul",
-        "wul",
+        "ahi",
         "sul",
         "ha",
         "mas",
@@ -11145,7 +11145,7 @@
         "pat",
         "kal",
         "has",
-        "wu"
+        "yon"
     ],
     "142": [
         "lin",
@@ -11169,7 +11169,7 @@
         "san",
         "mal",
         "pu",
-        "wul",
+        "ahi",
         "kat",
         "ko",
         "tan"
@@ -11228,7 +11228,7 @@
         "kul",
         "ban",
         "mo",
-        "wul",
+        "ahi",
         "to"
     ],
     "394": [
@@ -11267,11 +11267,11 @@
     ],
     "522": [
         "ti",
-        "wul"
+        "ahi"
     ],
     "737": [
         "lin",
-        "wo",
+        "gan",
         "wal"
     ],
     "115": [
@@ -11309,7 +11309,7 @@
         "lal",
         "mas",
         "gu",
-        "wo",
+        "gan",
         "ni",
         "lat",
         "win",
@@ -11369,7 +11369,7 @@
         "kul",
         "mo",
         "has",
-        "wul"
+        "ahi"
     ],
     "241": [
         "pu",
@@ -11397,14 +11397,14 @@
         "ho",
         "pul",
         "tat",
-        "wu",
-        "wu",
+        "yon",
+        "yon",
         "lul"
     ],
     "133": [
         "li",
         "pat",
-        "wu",
+        "yon",
         "wa",
         "mal",
         "bin",
@@ -11474,13 +11474,13 @@
         "li",
         "mul",
         "hal",
-        "wo",
+        "gan",
         "mi",
         "mal",
         "ni",
         "min",
         "ban",
-        "wul"
+        "ahi"
     ],
     "380": [
         "bo",
@@ -11497,7 +11497,7 @@
         "ko",
         "wa",
         "mas",
-        "wul"
+        "ahi"
     ],
     "217": [
         "hul",
@@ -11536,7 +11536,7 @@
         "tu"
     ],
     "31926": [
-        "wo"
+        "gan"
     ],
     "1653": [
         "lo"
@@ -11547,7 +11547,7 @@
     "162": [
         "lin",
         "mas",
-        "wo",
+        "gan",
         "gat",
         "kat",
         "wi",
@@ -11561,7 +11561,7 @@
         "lo",
         "pal",
         "di",
-        "wu",
+        "yon",
         "las",
         "mas",
         "tu"
@@ -11573,7 +11573,7 @@
         "hu",
         "han",
         "mas",
-        "wul",
+        "ahi",
         "ti",
         "bo",
         "hul",
@@ -11590,7 +11590,7 @@
     ],
     "919": [
         "las",
-        "wul",
+        "ahi",
         "has"
     ],
     "279": [
@@ -11630,7 +11630,7 @@
     "370": [
         "gal",
         "gas",
-        "wo",
+        "gan",
         "lal",
         "kat"
     ],
@@ -11704,7 +11704,7 @@
     ],
     "85": [
         "sas",
-        "wu",
+        "yon",
         "pal",
         "mat",
         "ga",
@@ -11718,7 +11718,7 @@
         "kin",
         "di",
         "ta",
-        "wu",
+        "yon",
         "wat",
         "ku",
         "pas",
@@ -11765,7 +11765,7 @@
         "hin",
         "tin",
         "bas",
-        "wul"
+        "ahi"
     ],
     "192": [
         "mat",
@@ -11805,7 +11805,7 @@
     ],
     "372": [
         "ban",
-        "wul"
+        "ahi"
     ],
     "52920": [
         "san"
@@ -11838,7 +11838,7 @@
         "gal",
         "bin",
         "gin",
-        "wu",
+        "yon",
         "tas",
         "tat",
         "go",
@@ -11906,7 +11906,7 @@
         "gas",
         "bal",
         "pal",
-        "wo"
+        "gan"
     ],
     "91": [
         "lin",
@@ -11944,7 +11944,7 @@
         "mo",
         "ni",
         "po",
-        "wul",
+        "ahi",
         "win",
         "tul",
         "win",
@@ -12025,7 +12025,7 @@
         "ba"
     ],
     "736": [
-        "wu",
+        "yon",
         "ha",
         "san",
         "sin",
@@ -12059,7 +12059,7 @@
         "sul",
         "di",
         "gin",
-        "wu",
+        "yon",
         "sa",
         "kas",
         "ti",
@@ -12095,7 +12095,7 @@
         "ti",
         "hat",
         "ri",
-        "wu"
+        "yon"
     ],
     "740": [
         "bul",
@@ -12151,7 +12151,7 @@
         "wi",
         "tan",
         "bul",
-        "wu",
+        "yon",
         "pu"
     ],
     "220": [
@@ -12237,7 +12237,7 @@
     ],
     "295": [
         "wi",
-        "wu",
+        "yon",
         "go",
         "bin",
         "mo",
@@ -12282,7 +12282,7 @@
         "wat",
         "ri",
         "ku",
-        "wul",
+        "ahi",
         "has",
         "mas"
     ],
@@ -12292,7 +12292,7 @@
     "71": [
         "kin",
         "las",
-        "wo",
+        "gan",
         "sul",
         "mi",
         "kan",
@@ -12366,7 +12366,7 @@
         "pi"
     ],
     "257": [
-        "wu",
+        "yon",
         "su"
     ],
     "636": [
@@ -12402,7 +12402,7 @@
         "pan"
     ],
     "1071": [
-        "wu"
+        "yon"
     ],
     "465": [
         "sat",
@@ -12441,7 +12441,7 @@
     ],
     "285": [
         "mal",
-        "wul",
+        "ahi",
         "hu",
         "bas",
         "tin"
@@ -12499,7 +12499,7 @@
     ],
     "579": [
         "san",
-        "wu"
+        "yon"
     ],
     "4646": [
         "lan"
@@ -12538,7 +12538,7 @@
     "808": [
         "gat",
         "mal",
-        "wo"
+        "gan"
     ],
     "3713": [
         "mi"
@@ -12573,7 +12573,7 @@
         "san",
         "mu",
         "ho",
-        "wo",
+        "gan",
         "kas",
         "has",
         "lin",
@@ -12634,7 +12634,7 @@
         "tat",
         "gat",
         "ku",
-        "wo",
+        "gan",
         "min",
         "sal",
         "pin",
@@ -12779,7 +12779,7 @@
         "ha"
     ],
     "40585": [
-        "wo"
+        "gan"
     ],
     "1744": [
         "mat"
@@ -12788,7 +12788,7 @@
         "man"
     ],
     "497": [
-        "wu",
+        "yon",
         "bul",
         "ma",
         "so"
@@ -12814,11 +12814,11 @@
         "si"
     ],
     "1530": [
-        "wul",
+        "ahi",
         "lul"
     ],
     "30635": [
-        "wul"
+        "ahi"
     ],
     "1200": [
         "ri"
@@ -12833,7 +12833,7 @@
         "bu"
     ],
     "508": [
-        "wul",
+        "ahi",
         "ba"
     ],
     "339": [
@@ -12847,7 +12847,7 @@
         "lu"
     ],
     "786": [
-        "wo",
+        "gan",
         "sat"
     ],
     "3438": [
@@ -12879,9 +12879,9 @@
         "sa"
     ],
     "366": [
-        "wo",
+        "gan",
         "man",
-        "wo"
+        "gan"
     ],
     "39962": [
         "bul"
@@ -12983,7 +12983,7 @@
         "tan",
         "lo",
         "pat",
-        "wo"
+        "gan"
     ],
     "3230": [
         "gas",
@@ -12996,7 +12996,7 @@
         "min"
     ],
     "326": [
-        "wo",
+        "gan",
         "sin",
         "ho",
         "bo"
@@ -13032,14 +13032,14 @@
         "mat",
         "bul",
         "ti",
-        "wo"
+        "gan"
     ],
     "12718": [
         "gul"
     ],
     "1498": [
         "kat",
-        "wo"
+        "gan"
     ],
     "489": [
         "mul",
@@ -13110,7 +13110,7 @@
     ],
     "633": [
         "bin",
-        "wo",
+        "gan",
         "gal"
     ],
     "11961": [
@@ -13205,7 +13205,7 @@
         "ko"
     ],
     "2404": [
-        "wo",
+        "gan",
         "was"
     ],
     "20096": [
@@ -13271,7 +13271,7 @@
     ],
     "1938": [
         "bu",
-        "wo"
+        "gan"
     ],
     "3915": [
         "hal"
@@ -13303,7 +13303,7 @@
     ],
     "378": [
         "wi",
-        "wo"
+        "gan"
     ],
     "3236": [
         "tan"
@@ -13526,7 +13526,7 @@
     ],
     "906": [
         "lal",
-        "wo"
+        "gan"
     ],
     "902": [
         "lo",
@@ -13592,7 +13592,7 @@
         "mul"
     ],
     "9019": [
-        "wul"
+        "ahi"
     ],
     "1452": [
         "mo"
@@ -13661,7 +13661,7 @@
         "min",
         "gas",
         "gal",
-        "wu"
+        "yon"
     ],
     "1145": [
         "kan"
@@ -13672,7 +13672,7 @@
     "754": [
         "win",
         "bin",
-        "wul"
+        "ahi"
     ],
     "1487": [
         "tu",
@@ -13685,7 +13685,7 @@
     ],
     "483": [
         "ta",
-        "wul",
+        "ahi",
         "tu"
     ],
     "1184": [
@@ -13812,7 +13812,7 @@
     "621": [
         "hul",
         "mal",
-        "wu"
+        "yon"
     ],
     "5492": [
         "lan"
@@ -13820,7 +13820,7 @@
     "762": [
         "hal",
         "wan",
-        "wul"
+        "ahi"
     ],
     "2170": [
         "sul",
@@ -13834,7 +13834,7 @@
     ],
     "131": [
         "po",
-        "wo",
+        "gan",
         "ho",
         "pin",
         "ban",
@@ -13842,7 +13842,7 @@
         "kal"
     ],
     "222": [
-        "wul",
+        "ahi",
         "bas",
         "su",
         "pul",
@@ -13857,7 +13857,7 @@
         "mal"
     ],
     "660": [
-        "wu",
+        "yon",
         "sat"
     ],
     "3739": [
@@ -13885,7 +13885,7 @@
         "hin"
     ],
     "766": [
-        "wu"
+        "yon"
     ],
     "1706": [
         "mo",
@@ -14117,7 +14117,7 @@
     ],
     "1059": [
         "win",
-        "wul"
+        "ahi"
     ],
     "3532": [
         "kas"
@@ -14198,7 +14198,7 @@
         "lan"
     ],
     "6910": [
-        "wu"
+        "yon"
     ],
     "980": [
         "sa",
@@ -14312,7 +14312,7 @@
         "win"
     ],
     "356": [
-        "wo",
+        "gan",
         "go",
         "gat",
         "ni",
@@ -14340,7 +14340,7 @@
         "kul"
     ],
     "1939": [
-        "wu"
+        "yon"
     ],
     "17040": [
         "to"
@@ -14389,7 +14389,7 @@
         "gal"
     ],
     "1658": [
-        "wo",
+        "gan",
         "wan"
     ],
     "528": [
@@ -14632,7 +14632,7 @@
         "su"
     ],
     "227": [
-        "wu",
+        "yon",
         "ha",
         "sin",
         "was",
@@ -14666,7 +14666,7 @@
         "ti"
     ],
     "384": [
-        "wo",
+        "gan",
         "sas",
         "ku"
     ],
@@ -14698,7 +14698,7 @@
     ],
     "332": [
         "lal",
-        "wul",
+        "ahi",
         "ho",
         "bi",
         "pal"
@@ -14776,7 +14776,7 @@
         "ku"
     ],
     "18071": [
-        "wul"
+        "ahi"
     ],
     "6226": [
         "pin"
@@ -14829,10 +14829,10 @@
         "ko",
         "bat",
         "lat",
-        "wo"
+        "gan"
     ],
     "2905": [
-        "wo"
+        "gan"
     ],
     "3351": [
         "was"
@@ -14899,7 +14899,7 @@
         "man"
     ],
     "5129": [
-        "wu"
+        "yon"
     ],
     "1856": [
         "kas"
@@ -14949,7 +14949,7 @@
     ],
     "1774": [
         "lan",
-        "wo"
+        "gan"
     ],
     "1418": [
         "ti"
@@ -14976,7 +14976,7 @@
         "hal"
     ],
     "19857": [
-        "wul"
+        "ahi"
     ],
     "2105": [
         "has"
@@ -15159,7 +15159,7 @@
         "hu"
     ],
     "2547": [
-        "wu"
+        "yon"
     ],
     "1084": [
         "gas"
@@ -15169,7 +15169,7 @@
         "bul"
     ],
     "1648": [
-        "wo"
+        "gan"
     ],
     "1267": [
         "mu"
@@ -15375,7 +15375,7 @@
         "sat"
     ],
     "1650": [
-        "wu"
+        "yon"
     ],
     "2644": [
         "wan"
@@ -15406,7 +15406,7 @@
         "mat"
     ],
     "962": [
-        "wo"
+        "gan"
     ],
     "794": [
         "tul"
@@ -15437,7 +15437,7 @@
         "gas"
     ],
     "1819": [
-        "wo"
+        "gan"
     ],
     "967": [
         "gul"
@@ -15538,7 +15538,7 @@
         "pu"
     ],
     "3756": [
-        "wul"
+        "ahi"
     ],
     "296": [
         "wal",
@@ -15782,7 +15782,7 @@
     ],
     "1518": [
         "kat",
-        "wul"
+        "ahi"
     ],
     "22635": [
         "wi"
@@ -15799,7 +15799,7 @@
         "su"
     ],
     "625": [
-        "wul",
+        "ahi",
         "wa",
         "pu"
     ],
@@ -15857,7 +15857,7 @@
         "lo",
         "kas",
         "gu",
-        "wu",
+        "yon",
         "bu"
     ],
     "3124": [
@@ -15884,7 +15884,7 @@
     ],
     "1345": [
         "sas",
-        "wo"
+        "gan"
     ],
     "1692": [
         "lan"
@@ -16004,7 +16004,7 @@
         "li"
     ],
     "964": [
-        "wo",
+        "gan",
         "win"
     ],
     "1126": [
@@ -16024,7 +16024,7 @@
     ],
     "284": [
         "ba",
-        "wul",
+        "ahi",
         "bu",
         "mat",
         "ba",
@@ -16039,7 +16039,7 @@
         "pal"
     ],
     "4422": [
-        "wo"
+        "gan"
     ],
     "2615": [
         "sa"
@@ -16087,7 +16087,7 @@
         "wat"
     ],
     "6017": [
-        "wo"
+        "gan"
     ],
     "5910": [
         "ba"
@@ -16174,7 +16174,7 @@
     ],
     "359": [
         "ri",
-        "wu",
+        "yon",
         "po",
         "mal",
         "su"
@@ -16208,7 +16208,7 @@
         "ko"
     ],
     "1975": [
-        "wul"
+        "ahi"
     ],
     "1470": [
         "ho"
@@ -16542,7 +16542,7 @@
     ],
     "745": [
         "bul",
-        "wul",
+        "ahi",
         "wi"
     ],
     "521": [
@@ -16720,7 +16720,7 @@
     ],
     "1206": [
         "hat",
-        "wo"
+        "gan"
     ],
     "507": [
         "han",
@@ -16731,7 +16731,7 @@
     ],
     "1091": [
         "tin",
-        "wo"
+        "gan"
     ],
     "3312": [
         "lal"
@@ -16955,7 +16955,7 @@
         "ta"
     ],
     "4502": [
-        "wu"
+        "yon"
     ],
     "5411": [
         "lal"
@@ -16983,8 +16983,8 @@
         "pi"
     ],
     "216": [
-        "wu",
-        "wo",
+        "yon",
+        "gan",
         "tul",
         "lul",
         "po"
@@ -17007,7 +17007,7 @@
     ],
     "918": [
         "tas",
-        "wo"
+        "gan"
     ],
     "1463": [
         "pi",
@@ -17044,7 +17044,7 @@
     ],
     "606": [
         "ta",
-        "wul"
+        "ahi"
     ],
     "1577": [
         "pal"
@@ -17099,7 +17099,7 @@
         "tin"
     ],
     "4721": [
-        "wul"
+        "ahi"
     ],
     "1391": [
         "mi"
@@ -17128,7 +17128,7 @@
         "ga"
     ],
     "2824": [
-        "wul"
+        "ahi"
     ],
     "1671": [
         "tal"
@@ -17260,7 +17260,7 @@
         "kan"
     ],
     "3609": [
-        "wo"
+        "gan"
     ],
     "1290": [
         "wa"
@@ -17275,7 +17275,7 @@
         "bu"
     ],
     "474": [
-        "wo"
+        "gan"
     ],
     "1181": [
         "ku",
@@ -17324,7 +17324,7 @@
         "kin"
     ],
     "1127": [
-        "wu"
+        "yon"
     ],
     "3412": [
         "bal"
@@ -17366,7 +17366,7 @@
         "la"
     ],
     "1240": [
-        "pa"
+        "hag"
     ],
     "5453": [
         "bat"
@@ -17446,7 +17446,7 @@
         "hin"
     ],
     "1615": [
-        "pa"
+        "hag"
     ],
     "1097": [
         "pi"
@@ -17570,7 +17570,7 @@
         "ha"
     ],
     "1363": [
-        "wul"
+        "ahi"
     ],
     "2831": [
         "tan"
@@ -17676,7 +17676,7 @@
         "pu"
     ],
     "3768": [
-        "wul"
+        "ahi"
     ],
     "4796": [
         "kat"
@@ -17973,7 +17973,7 @@
         "si"
     ],
     "1913": [
-        "wu"
+        "yon"
     ],
     "647": [
         "ma"
@@ -18000,7 +18000,7 @@
         "so"
     ],
     "3411": [
-        "pa"
+        "hag"
     ],
     "664": [
         "ho"
@@ -18015,7 +18015,7 @@
         "po"
     ],
     "3395": [
-        "wo"
+        "gan"
     ],
     "1500": [
         "lo"
@@ -18055,7 +18055,7 @@
         "lu"
     ],
     "2571": [
-        "wu"
+        "yon"
     ],
     "4000": [
         "san"
@@ -18139,7 +18139,7 @@
         "san"
     ],
     "4309": [
-        "wu"
+        "yon"
     ],
     "1314": [
         "bin"
